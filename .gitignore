@@ -1,0 +1,83 @@
+# macOS
+.DS_Store
+
+# SSH Keys
+*.pem
+*.key
+*.ppk
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.env
+
+# Virtual Environments
+venv/
+.env/
+.env.bak/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.sqlite
+*.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.tmp
+*.bak
+*.old
+
+# Git
+.gitconfig
+.gitignore
+
+# Node.js (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+build/
+dist/
+
+# Python coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+
+# PyCharm
+*.pyc
+*.pyo
+*.pyd
+*.pyproj
+*.pydevproject
