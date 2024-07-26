@@ -1,6 +1,4 @@
-Aquí tienes una estructura sugerida para completar tu README para el proyecto **PDFChatRAG**:
 
----
 
 # PDFChatRAG
 
