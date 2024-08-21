@@ -18,7 +18,7 @@ To install and set up PDFChatRAG locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/PDFChatRAG.git
+   git clone https://github.com/vacarezzad/PDFChatRAG.git
    cd PDFChatRAG
    ```
 
@@ -69,6 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, feel free to open an issue or contact us directly.
 
----
-
-This structure provides a comprehensive overview of your project, from features and installation instructions to usage and contributing guidelines. Feel free to adjust or add sections based on your project's specifics!
